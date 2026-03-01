@@ -1,6 +1,6 @@
 {
-  "name": "manja316-skills",
-  "publisher": "manja316",
+  "name": "lucifer-skills",
+  "publisher": "LuciferForge",
   "description": "Add production safety to any AI agent — budget enforcement, prompt injection detection, and decision tracing. Zero dependencies.",
   "plugins": [
     {

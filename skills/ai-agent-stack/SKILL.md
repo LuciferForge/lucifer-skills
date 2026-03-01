@@ -230,6 +230,6 @@ guard = CostGuard(weekly_budget_usd=budget)
 ---
 
 ## GitHub repos
-- ai-cost-guard: github.com/manja316/ai-cost-guard
-- ai-injection-guard: github.com/manja316/prompt-shield
-- ai-decision-tracer: github.com/manja316/ai-trace
+- ai-cost-guard: github.com/LuciferForge/ai-cost-guard
+- ai-injection-guard: github.com/LuciferForge/prompt-shield
+- ai-decision-tracer: github.com/LuciferForge/ai-trace

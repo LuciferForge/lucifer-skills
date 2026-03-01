@@ -13,7 +13,7 @@ Installs and integrates three zero-dependency Python libraries:
 ## Install in Claude Code
 
 ```
-/plugin marketplace add manja316/ai-agent-stack-skill
+/plugin marketplace add LuciferForge/lucifer-skills
 ```
 
 Or install directly:
@@ -36,9 +36,9 @@ Claude will analyze your codebase, find the LLM call points, and wrap them with 
 
 | Library | GitHub | PyPI |
 |---|---|---|
-| ai-cost-guard | github.com/manja316/ai-cost-guard | `pip install ai-cost-guard` |
-| ai-injection-guard | github.com/manja316/prompt-shield | `pip install ai-injection-guard` |
-| ai-decision-tracer | github.com/manja316/ai-trace | `pip install ai-decision-tracer` |
+| ai-cost-guard | github.com/LuciferForge/ai-cost-guard | `pip install ai-cost-guard` |
+| ai-injection-guard | github.com/LuciferForge/prompt-shield | `pip install ai-injection-guard` |
+| ai-decision-tracer | github.com/LuciferForge/ai-trace | `pip install ai-decision-tracer` |
 
 All three: MIT licensed, zero dependencies, pure Python stdlib, no network calls.
 
