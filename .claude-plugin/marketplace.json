@@ -1,5 +1,5 @@
 {
-  "name": "ai-agent-stack",
+  "name": "manja316-skills",
   "publisher": "manja316",
   "description": "Add production safety to any AI agent — budget enforcement, prompt injection detection, and decision tracing. Zero dependencies.",
   "plugins": [
