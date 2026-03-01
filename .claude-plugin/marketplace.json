@@ -1,12 +1,23 @@
 {
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "lucifer-skills",
-  "publisher": "LuciferForge",
-  "description": "Add production safety to any AI agent — budget enforcement, prompt injection detection, and decision tracing. Zero dependencies.",
+  "description": "AI Agent Infrastructure Stack — production safety tools for any LLM application",
+  "owner": {
+    "name": "LuciferForge",
+    "email": "luciferforge.ai@gmail.com"
+  },
   "plugins": [
     {
       "name": "ai-agent-stack",
-      "description": "AI Agent Infrastructure Stack — three safety layers for any LLM application",
-      "skills": ["skills/ai-agent-stack"]
+      "description": "Add budget enforcement, prompt injection detection, and decision tracing to any AI agent codebase. Zero dependencies.",
+      "version": "1.0.0",
+      "author": {
+        "name": "LuciferForge",
+        "email": "luciferforge.ai@gmail.com"
+      },
+      "source": "./plugins/ai-agent-stack",
+      "category": "productivity",
+      "strict": false
     }
   ]
 }

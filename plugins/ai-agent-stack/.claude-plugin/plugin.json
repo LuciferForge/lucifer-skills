@@ -1,0 +1,9 @@
+{
+  "name": "ai-agent-stack",
+  "description": "Add production safety to any AI agent — budget enforcement, prompt injection detection, and decision tracing. Zero dependencies.",
+  "version": "1.0.0",
+  "author": {
+    "name": "LuciferForge",
+    "email": "luciferforge.ai@gmail.com"
+  }
+}
