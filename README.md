@@ -18,7 +18,7 @@ Installs and integrates three zero-dependency Python libraries:
 
 Or install directly:
 ```
-/plugin install ai-agent-stack@manja316
+/plugin install ai-agent-stack@lucifer-skills
 ```
 
 ## Usage
